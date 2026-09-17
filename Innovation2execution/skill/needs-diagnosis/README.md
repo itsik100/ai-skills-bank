@@ -1,6 +1,6 @@
 # Skill Set: אבחון צרכים ובחירת פתרונות
 
-**מיקום מיועד ב-repo:** `ai-skills-bank/work/inno2ex/needs-diagnosis/`
+**מיקום ב-repo:** `Innovation2execution/skill/needs-diagnosis/`
 (מקביל מבנית ל-`asaf-legal-os/skill/` ול-`Maya-Marketing-skill/`)
 
 ## מה יש בתיקייה הזו
