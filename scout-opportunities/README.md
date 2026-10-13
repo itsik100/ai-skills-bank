@@ -49,7 +49,7 @@ Claude scheduled task: שיפוט וניסוח עם תוצר לאישור. הק�
 | רכיב | סוג | מיקום |
 |---|---|---|
 | הערכת הזדמנויות (scoring) | חדש, בתוך SKILL.md | `scout-opportunities/SKILL.md` |
-| הכנת פנייה (outreach-prep) | חדש, בתוך SKILL.md; מועמד לחילוץ ל-skill משותף עם I2E | `scout-opportunities/SKILL.md` |
+| ניסוח פניות | skill משותף, קיים | `skills/outreach-writer/` |
 | פרופיל קריירה | knowledge משותף (גם למאיה ול-I2E) | `core/career-profile.md` |
 | טריאז' Gmail | קיים, מזין את התווית | Apps Script |
 
