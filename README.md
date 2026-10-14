@@ -6,6 +6,7 @@ My personal AI prompts and skills library
 
 ## skills משותפים
 - `skills/outreach-writer/` — ניסוח הודעות LinkedIn למגייסות ולמקבלי החלטות (ידני, ומסקאוט)
+- `skills/review-and-sign/` — שער אישור וחתימה לתוצרים יוצאים (פיילוט: סקאוט)
 
 ## core
 - `career-profile.md` — פרופיל קריירה מלא, מקור משותף לסקאוט, מאיה ו-I2E
