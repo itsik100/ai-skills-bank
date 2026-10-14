@@ -1,11 +1,11 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 14/10/2026 (ריצה מתוזמנת; מיילים עד 13/10/2026 20:44)
+ריצה אחרונה: 14/10/2026 (עיבוד תשובות + חבילת Nestlé; ריצה מתוזמנת; מיילים עד 13/10/2026 20:44)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
 |---|---|---|---|---|---|---|---|---|
-| 13/10/2026 | Nestlé | AI & Digital Transformation Team Lead | א' | 7 | נשלח (#1) | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4475758230/ |
+| 13/10/2026 | Nestlé | AI & Digital Transformation Team Lead | א' | 7 | נשלח (#1) | המלצות LinkedIn | כן ("1 כן", 14/10) · חבילת פנייה נשלחה 14/10 | https://www.linkedin.com/jobs/view/4475758230/ |
 | 13/10/2026 | תנובה | AI Domain Manager | א' | 7 | נשלח (#2) | המלצות LinkedIn | כן ("2 כן", 13/10) · חבילת פנייה נשלחה 14/10 | https://www.linkedin.com/jobs/view/4468539740/ |
 | 13/10/2026 | Jobist (ארגון פיננסי) | ראש/ת מחלקת מוצרי Data & AI | א' | 7 | נשלח (#3) | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4474456281/ |
 | 13/10/2026 | Challenge Group | ERP Project Manager | ב' | 5 | גבולי: לוגיסטיקה, לא תעשיית יעד | implamentation (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4423925896/ |
@@ -32,8 +32,8 @@
 | 13/10/2026 | Apple | FE integration & STA IP Lead | רעש | — | נפסל: הנדסה | engineer (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4477255658/ |
 | 13/10/2026 | IAI | Power Engineer | רעש | — | נפסל: הנדסה | engineer (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4475654555/ |
 | 13/10/2026 | IAI | Flight Test Engineer | רעש | — | נפסל: הנדסה | engineer (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4475642709/ |
-| 14/10/2026 | בנק הפועלים | Operational Excellence 9073 | א' | 7 | נשלח (#1) | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4477988362/ |
-| 14/10/2026 | Confidential Careers | Head of Data & AI Products | א' | 7 | נשלח (#2) · כנראה אותה משרה כמו הבינלאומי/Jobist | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4473488064/ |
+| 14/10/2026 | בנק הפועלים | Operational Excellence 9073 | א' | 7 | נשלח (#1) | #2 Digital Transformation | נדחה ע"י איציק ("1-2 לא", 14/10, בלי סיבה) | https://www.linkedin.com/jobs/view/4477988362/ |
+| 14/10/2026 | Confidential Careers | Head of Data & AI Products | א' | 7 | נשלח (#2) · כנראה אותה משרה כמו הבינלאומי/Jobist | המלצות LinkedIn | נדחה ע"י איציק ("1-2 לא", 14/10, בלי סיבה) | https://www.linkedin.com/jobs/view/4473488064/ |
 | 14/10/2026 | MESH | Director of Professional Services & Customer Experience | א' | 5 | גבולי: הטמעה ללקוחות, לא פנים-ארגונית | #2 + #12 | ממתין | https://www.linkedin.com/jobs/view/4476421746/ |
 | 14/10/2026 | comblack | Delivery Excellence Lead | א' | 5 | גבולי: חברת שירותי IT, דרג Lead | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4478518661/ |
 | 14/10/2026 | Stampli | Head of AI-Native Engineering (Senior Director) | רעש | — | נפסל: פיתוח | #2 + #1 | ממתין | https://www.linkedin.com/jobs/view/4478512691/ |
