@@ -1,12 +1,12 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 13/10/2026 16:20 (ריצת בדיקה ידנית, מיילים מ-11–13/10)
+ריצה אחרונה: 14/10/2026 (ריצה מתוזמנת; מיילים עד 13/10/2026 20:44)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
 |---|---|---|---|---|---|---|---|---|
 | 13/10/2026 | Nestlé | AI & Digital Transformation Team Lead | א' | 7 | נשלח (#1) | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4475758230/ |
-| 13/10/2026 | תנובה | AI Domain Manager | א' | 7 | נשלח (#2) | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4468539740/ |
+| 13/10/2026 | תנובה | AI Domain Manager | א' | 7 | נשלח (#2) | המלצות LinkedIn | כן ("2 כן", 13/10) · חבילת פנייה נשלחה 14/10 | https://www.linkedin.com/jobs/view/4468539740/ |
 | 13/10/2026 | Jobist (ארגון פיננסי) | ראש/ת מחלקת מוצרי Data & AI | א' | 7 | נשלח (#3) | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4474456281/ |
 | 13/10/2026 | Challenge Group | ERP Project Manager | ב' | 5 | גבולי: לוגיסטיקה, לא תעשיית יעד | implamentation (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4423925896/ |
 | 13/10/2026 | INNOVA | Salesforce Specialist | ב' | 5 | גבולי: גודל ותעשייה לא ידועים | engineer + implamentation (ישנות) | ממתין | https://www.linkedin.com/jobs/view/4476013509/ |
@@ -32,3 +32,24 @@
 | 13/10/2026 | Apple | FE integration & STA IP Lead | רעש | — | נפסל: הנדסה | engineer (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4477255658/ |
 | 13/10/2026 | IAI | Power Engineer | רעש | — | נפסל: הנדסה | engineer (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4475654555/ |
 | 13/10/2026 | IAI | Flight Test Engineer | רעש | — | נפסל: הנדסה | engineer (ישנה) | ממתין | https://www.linkedin.com/jobs/view/4475642709/ |
+| 14/10/2026 | בנק הפועלים | Operational Excellence 9073 | א' | 7 | נשלח (#1) | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4477988362/ |
+| 14/10/2026 | Confidential Careers | Head of Data & AI Products | א' | 7 | נשלח (#2) · כנראה אותה משרה כמו הבינלאומי/Jobist | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4473488064/ |
+| 14/10/2026 | MESH | Director of Professional Services & Customer Experience | א' | 5 | גבולי: הטמעה ללקוחות, לא פנים-ארגונית | #2 + #12 | ממתין | https://www.linkedin.com/jobs/view/4476421746/ |
+| 14/10/2026 | comblack | Delivery Excellence Lead | א' | 5 | גבולי: חברת שירותי IT, דרג Lead | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4478518661/ |
+| 14/10/2026 | Stampli | Head of AI-Native Engineering (Senior Director) | רעש | — | נפסל: פיתוח | #2 + #1 | ממתין | https://www.linkedin.com/jobs/view/4478512691/ |
+| 14/10/2026 | Elad Software Systems | Head of ERP Department | רעש | — | נפסל: ניהול IT תפעולי, חברת יישום | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4478382521/ |
+| 14/10/2026 | Commtact | Chief Technology Officer | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4478336009/ |
+| 14/10/2026 | StoreNext | VP R&D | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4478393256/ |
+| 14/10/2026 | Tondo | Director of R&D | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4475662221/ |
+| 14/10/2026 | KMS Lighthouse | R&D Director | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4474973234/ |
+| 14/10/2026 | Enlight | Director of Data Center Strategy & Development | רעש | — | נפסל: פיתוח עסקי באנרגיה | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4478038890/ |
+| 14/10/2026 | Egis | Chief Technical Director | רעש | — | נפסל: הנדסה | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4478095577/ |
+| 14/10/2026 | Matia | Director of Engineering (CTO Office) | רעש | — | נפסל: פיתוח | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4418861205/ |
+| 14/10/2026 | Datadog | Director, Engineering | רעש | — | נפסל: פיתוח | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4469877098/ |
+| 14/10/2026 | Driivz | VP Product | רעש | 4 | נפסל: ניהול מוצר (פורסם פעמיים: גם 4464180746) | #12 + המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4446592942/ |
+| 14/10/2026 | Dots IT | Head of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4472183908/ |
+| 14/10/2026 | Commit | Product Director | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4469545709/ |
+| 14/10/2026 | Rail Vision | Director of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4368128195/ |
+| 14/10/2026 | iLeadX | Director of Product Management | רעש | 4 | נפסל: ניהול מוצר, חברת השמה | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4476701302/ |
+| 14/10/2026 | Chamelio | Head of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4475387937/ |
+| 14/10/2026 | ULTRA RED | Head of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4470292570/ |
