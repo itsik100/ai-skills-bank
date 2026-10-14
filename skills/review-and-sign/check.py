@@ -3,6 +3,7 @@
 
 שימוש:
     python3 check.py output.md source1.md [source2.md ...]
+    python3 check.py --clean clean.md
 
 מדווח על:
   1. סלוטים שלא מולאו ({{ }})
@@ -14,6 +15,10 @@
 מותאם מ-pre-publish-check.md של kill-the-wall-of-text (swan-gtm, MIT).
 בדיקות הסגנון באנגלית הושמטו. מספרים חד-ספרתיים, שמות, הישגים בלי מספר
 וחיזוק/החלשה של טענות — בודקים בעין.
+
+--clean: בדיקת עותק נקי לשליחה, אחרי חתימה. נכשלת אם נשארו בו תגית,
+מספור [N], באנר (טיוטה/חתום/"אושר ללא שינויים"), כותרת "ראיות", בלוק
+החתימה, הביטוי "לא במקור" או {{ }}. לא צריך קובצי מקור.
 
 קוד יציאה: 0 = אין ממצא חוסם; 1 = יש ממצא חוסם; 2 = שימוש שגוי.
 """
@@ -58,8 +63,33 @@ def tagged(text, end):
     return any(t in window for t in TAGS)
 
 
+CLEAN_CHECKS = [
+    ('תגית', re.compile('|'.join(re.escape(t) for t in TAGS))),
+    ('מספור [N]', re.compile(r'\[\d+\]')),
+    ('באנר', re.compile(re.escape(BANNER_DRAFT) + r'|נחתם ע["״]י|אושר ללא שינויים')),
+    ('כותרת "ראיות"', re.compile(r'^\s*(?:#+|─+|-{2,}|\*\*)?\s*ראיות\b', re.M)),
+    ('בלוק חתימה', re.compile(r'קראת הכל ואתה עומד מאחוריו|^\s*─+\s*חתימה', re.M)),
+    ('"לא במקור"', re.compile(r'לא במקור')),
+    ('סלוט {{ }}', re.compile(r'\{\{.*?\}\}', re.S)),
+]
+
+
+def check_clean(path):
+    text = read(path)
+    found = 0
+    for name, rx in CLEAN_CHECKS:
+        for m in rx.finditer(text):
+            found += 1
+            line = text.count('\n', 0, m.start()) + 1
+            print('✗ %s נשאר (שורה %d): %s' % (name, line, m.group(0).strip()[:40]))
+    print('\n%s' % ('%d ממצאים — העותק לא נקי. לא למסור.' % found if found else '✓ העותק נקי.'))
+    return 1 if found else 0
+
+
 def main(argv):
-    if len(argv) < 3:
+    if len(argv) == 3 and argv[1] == '--clean':
+        return check_clean(argv[2])
+    if len(argv) < 3 or '--clean' in argv:
         print(__doc__.strip().split('\n\n')[1])
         return 2
     out = read(argv[1])
