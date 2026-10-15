@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 14/10/2026 (עיבוד תשובות + חבילת Nestlé; ריצה מתוזמנת; מיילים עד 13/10/2026 20:44)
+ריצה אחרונה: 15/10/2026 (ריצה מתוזמנת; אין תשובות חדשות; מיילים עד 15/10/2026 06:44)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -53,3 +53,44 @@
 | 14/10/2026 | iLeadX | Director of Product Management | רעש | 4 | נפסל: ניהול מוצר, חברת השמה | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4476701302/ |
 | 14/10/2026 | Chamelio | Head of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4475387937/ |
 | 14/10/2026 | ULTRA RED | Head of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4470292570/ |
+| 15/10/2026 | Deloitte | AI Solutions Leader - AI Transformation | א' | 8 | נשלח (#1) | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4479285171/ |
+| 15/10/2026 | KPMG Israel | Project Manager- AI Business Solutions | א' | 6 | גבולי: דרג PM, לא Head | #4 + #13 + #11 | ממתין | https://www.linkedin.com/jobs/view/4477990762/ |
+| 15/10/2026 | Cellebrite | HR Data & AI Lead | א' | 6 | גבולי: AI בתוך HR, דרג Lead | #3 + #4 | ממתין | https://www.linkedin.com/jobs/view/4466846230/ |
+| 15/10/2026 | Elbit Systems | Operational Excellence Lead | א' | 6 | גבולי: תעשייה ביטחונית, דרג Lead | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4439699241/ |
+| 15/10/2026 | Netafim | Israel Opex Leader | א' | 5 | גבולי: מיקום מגל, תעשייה | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4475751841/ |
+| 15/10/2026 | Experis Israel | CIO 243217 | א' | 5 | גבולי: ניהול IT, חברת השמה | #2 + #7 | ממתין | https://www.linkedin.com/jobs/view/4476417117/ |
+| 15/10/2026 | Nogamy | Generative AI Lead | א' | 5 | גבולי: כנראה טכני, אין תקציר | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4478390135/ |
+| 15/10/2026 | Pacaya HR Experts | Senior AI Lead | רעש | 4 | נפסל: כנראה טכני, חברת השמה | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4477261009/ |
+| 15/10/2026 | Artlist | IT Specialist & AI Systems Integrator | ב' | 3 | נפסל: תפקיד IT, אין סיגנל הטמעת ליבה | #4 AI Adoption | ממתין | https://www.linkedin.com/jobs/view/4478124124/ |
+| 15/10/2026 | SQLink Group | Senior AI Implementation Specialist | רעש | — | נפסל: חברת השמה/יישום | #4 AI Adoption | ממתין | https://www.linkedin.com/jobs/view/4476400715/ |
+| 15/10/2026 | Wizedom | VP R&D – Semiconductor Devices | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4478754713/ |
+| 15/10/2026 | Dialog | VP of R&D | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4475686223/ |
+| 15/10/2026 | Medulla | Head of Research And Development | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4478515165/ |
+| 15/10/2026 | Sela | AI Engineering Team Lead | רעש | — | נפסל: פיתוח | #3 + #11 | ממתין | https://www.linkedin.com/jobs/view/4465532627/ |
+| 15/10/2026 | Alice (ActiveFence) | Data Science Engineering Manager | רעש | — | נפסל: פיתוח | #3 + #11 | ממתין | https://www.linkedin.com/jobs/view/4478799273/ |
+| 15/10/2026 | Quicklizard | Head of Data Science | רעש | — | נפסל: פיתוח | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4477981576/ |
+| 15/10/2026 | Fetcherr | MLOps Team Lead | רעש | — | נפסל: פיתוח | #3 + #11 | ממתין | https://www.linkedin.com/jobs/view/4459947466/ |
+| 15/10/2026 | DriveNets | Principal Technologist AI Compute | רעש | — | נפסל: פיתוח | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4477980849/ |
+| 15/10/2026 | Aidoc | AI Staff Software Engineer, ML Platform | רעש | — | נפסל: פיתוח | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4425183053/ |
+| 15/10/2026 | Commit | GenAI Expert | רעש | — | נפסל: טכני, חברת יישום | #4 AI Adoption | ממתין | https://www.linkedin.com/jobs/view/4479000149/ |
+| 15/10/2026 | Shavit Software | AI Product Manager | רעש | 4 | נפסל: ניהול מוצר | #4 AI Adoption | ממתין | https://www.linkedin.com/jobs/view/4479030748/ |
+| 15/10/2026 | Apartment List | AI Core Product Manager | רעש | 4 | נפסל: ניהול מוצר | #4 AI Adoption | ממתין | https://www.linkedin.com/jobs/view/4461100403/ |
+| 15/10/2026 | Alice (ActiveFence) | Head of RL Gym - Program Operations | רעש | — | נפסל: תפעול מוצר | #6 + #4 | ממתין | https://www.linkedin.com/jobs/view/4478549283/ |
+| 15/10/2026 | Yad2 | VP Operations & Monetization | רעש | — | נפסל: תפעול ומונטיזציה | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4471984488/ |
+| 15/10/2026 | Jobgether | Data Center Operations Director | רעש | — | נפסל: תפעול דאטה סנטר | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4477978248/ |
+| 15/10/2026 | BTG A Ferring Company | Engineering Manager | רעש | — | נפסל: הנדסה | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4476454214/ |
+| 15/10/2026 | INGIMA | Technical Operations Project Manager | רעש | — | נפסל: חברת השמה, תפעול טכני | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4478797215/ |
+| 15/10/2026 | Hire-Match | מפתח/ת Priority בכיר/ה | רעש | — | נפסל: פיתוח | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4476443436/ |
+| 15/10/2026 | PepsiCo | Digital Growth & Analytics Marketing Sr. Director | רעש | — | נפסל: שיווק | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4421969321/ |
+| 15/10/2026 | Egis | Chief Integration Manager | רעש | — | נפסל: הנדסת תשתיות | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4475790097/ |
+| 15/10/2026 | abra | Salesforce Project Manager | רעש | — | נפסל: חברת יישום | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4477969698/ |
+| 15/10/2026 | Asperii | Salesforce Team Lead | רעש | — | נפסל: חברת יישום | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4476406403/ |
+| 15/10/2026 | Bynet Software Systems | Project Manager - Information Systems - 4731 | רעש | — | נפסל: חברת יישום | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4477996867/ |
+| 15/10/2026 | IAI | ראש/ת מינהל תכנית פיתוח | רעש | — | נפסל: הנדסה ביטחונית | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4477983560/ |
+| 15/10/2026 | Arbex | General Counsel Israel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4477159868/ |
+| 15/10/2026 | Helfy | Legal Director | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4403895397/ |
+| 15/10/2026 | Medison Pharma | Legal Counsel, Data Privacy | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4452083511/ |
+| 15/10/2026 | Overwolf | Commercial & Compliance Legal Counsel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4478799478/ |
+| 15/10/2026 | monday.com | Senior Legal Counsel - AI and Technology | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4478791890/ |
+| 15/10/2026 | Rise | Legal Counsel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4477994673/ |
+| 15/10/2026 | CONTROP Precision Technologies | Legal Counsel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4477986034/ |
