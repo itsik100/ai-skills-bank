@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 15/10/2026 (ריצה מתוזמנת; אין תשובות חדשות; מיילים עד 15/10/2026 06:44)
+ריצה אחרונה: 15/10/2026 (עיבוד תשובה: "לא 1" ל-Deloitte; מיילים עד 15/10/2026 06:44)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -53,7 +53,7 @@
 | 14/10/2026 | iLeadX | Director of Product Management | רעש | 4 | נפסל: ניהול מוצר, חברת השמה | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4476701302/ |
 | 14/10/2026 | Chamelio | Head of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4475387937/ |
 | 14/10/2026 | ULTRA RED | Head of Product | רעש | 4 | נפסל: ניהול מוצר | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4470292570/ |
-| 15/10/2026 | Deloitte | AI Solutions Leader - AI Transformation | א' | 8 | נשלח (#1) | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4479285171/ |
+| 15/10/2026 | Deloitte | AI Solutions Leader - AI Transformation | א' | 8 | נשלח (#1) | #3 Head of AI | נדחה ע"י איציק ("לא 1", 15/10): מחפשים ניסיון של מהנדס תוכנה ואיציק לא | https://www.linkedin.com/jobs/view/4479285171/ |
 | 15/10/2026 | KPMG Israel | Project Manager- AI Business Solutions | א' | 6 | גבולי: דרג PM, לא Head | #4 + #13 + #11 | ממתין | https://www.linkedin.com/jobs/view/4477990762/ |
 | 15/10/2026 | Cellebrite | HR Data & AI Lead | א' | 6 | גבולי: AI בתוך HR, דרג Lead | #3 + #4 | ממתין | https://www.linkedin.com/jobs/view/4466846230/ |
 | 15/10/2026 | Elbit Systems | Operational Excellence Lead | א' | 6 | גבולי: תעשייה ביטחונית, דרג Lead | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4439699241/ |
