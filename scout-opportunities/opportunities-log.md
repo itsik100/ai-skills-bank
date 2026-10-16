@@ -94,7 +94,7 @@
 | 15/10/2026 | monday.com | Senior Legal Counsel - AI and Technology | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4478791890/ |
 | 15/10/2026 | Rise | Legal Counsel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4477994673/ |
 | 15/10/2026 | CONTROP Precision Technologies | Legal Counsel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4477986034/ |
-| 16/10/2026 | Ackerstein | מנהל/ת דאטה ודיגיטל | א' | 7 | נשלח (#1) · גם ליד ל-I2E | #2 + #3 + #11 + #13 | ממתין | https://www.linkedin.com/jobs/view/4476669195/ |
+| 16/10/2026 | Ackerstein | מנהל/ת דאטה ודיגיטל | א' | 7 | נשלח (#1) · גם ליד ל-I2E | #2 + #3 + #11 + #13 | נדחה ע"י איציק (16/10): המשרה חסומה להגשה, כנראה אויישה | https://www.linkedin.com/jobs/view/4476669195/ |
 | 16/10/2026 | LiveU | Director of Data & AI | א' | 6 | גבולי: כנראה תפקיד דאטה טכני | #2 + #3 + #11 + #12 | ממתין | https://www.linkedin.com/jobs/view/4479504662/ |
 | 16/10/2026 | Comigo.io | Implementation Project Manager (CRM & Business Systems) | ב' | 5 | גבולי: גודל לא ידוע, אולי הטמעה ללקוחות | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4476481415/ |
 | 16/10/2026 | Arbex | אחראי.ת דיגיטציה ואוטומציה של חטיבת המכירות | ב' | 5 | גבולי: גודל ותעשייה לא ידועים | #13 + #15 | ממתין | https://www.linkedin.com/jobs/view/4467988762/ |
