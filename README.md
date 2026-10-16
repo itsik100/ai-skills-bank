@@ -10,3 +10,6 @@ My personal AI prompts and skills library
 
 ## core
 - `career-profile.md` — פרופיל קריירה מלא, מקור משותף לסקאוט, מאיה ו-I2E
+
+## external
+- `external/digital-album/` — סקיל digital-album של Idan Shenhav (git subtree מ-`Idanshenhav/digital-album`, MIT). הסקיל עצמו: `external/digital-album/digital-album/`
