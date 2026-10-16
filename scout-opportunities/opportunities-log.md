@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 15/10/2026 (עיבוד תשובה: "לא 1" ל-Deloitte; מיילים עד 15/10/2026 06:44)
+ריצה אחרונה: 16/10/2026 (מיילים עד 16/10/2026 06:44; 15 מיילי התראה, 41 משרות חדשות)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -94,3 +94,44 @@
 | 15/10/2026 | monday.com | Senior Legal Counsel - AI and Technology | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4478791890/ |
 | 15/10/2026 | Rise | Legal Counsel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4477994673/ |
 | 15/10/2026 | CONTROP Precision Technologies | Legal Counsel | רעש | — | נפסל: תפקיד משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4477986034/ |
+| 16/10/2026 | Ackerstein | מנהל/ת דאטה ודיגיטל | א' | 7 | נשלח (#1) · גם ליד ל-I2E | #2 + #3 + #11 + #13 | ממתין | https://www.linkedin.com/jobs/view/4476669195/ |
+| 16/10/2026 | LiveU | Director of Data & AI | א' | 6 | גבולי: כנראה תפקיד דאטה טכני | #2 + #3 + #11 + #12 | ממתין | https://www.linkedin.com/jobs/view/4479504662/ |
+| 16/10/2026 | Comigo.io | Implementation Project Manager (CRM & Business Systems) | ב' | 5 | גבולי: גודל לא ידוע, אולי הטמעה ללקוחות | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4476481415/ |
+| 16/10/2026 | Arbex | אחראי.ת דיגיטציה ואוטומציה של חטיבת המכירות | ב' | 5 | גבולי: גודל ותעשייה לא ידועים | #13 + #15 | ממתין | https://www.linkedin.com/jobs/view/4467988762/ |
+| 16/10/2026 | Shavit Software | Transformation Program Manager | א' | 5 | גבולי: דרג PM, חברת תוכנה/יישום | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4479509065/ |
+| 16/10/2026 | SynaMCPs | Chief Executive Officer | א' | 5 | גבולי: מנכ"ל סטארטאפ, לא תפקיד הטמעה | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4479525791/ |
+| 16/10/2026 | Bank Leumi | Project Manager, O&M, Strategy Division 2985 | א' | 5 | גבולי: דרג PM, מעסיק קודם | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4476098265/ |
+| 16/10/2026 | Blue-Premium | Chief of Staff | רעש | 4 | נפסל: לא תפקיד חדשנות | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4476686261/ |
+| 16/10/2026 | IDEODIGITAL | Head of Delivery & Projects | רעש | 4 | נפסל: Delivery ללקוחות בסוכנות דיגיטל | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4479295283/ |
+| 16/10/2026 | Ayalon Highways | ממונה ארגון ושיטות מערכות, חטיבת כספים (החלפה לחל"ד) | רעש | 3 | נפסל: דרג נמוך, זמני | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4479285470/ |
+| 16/10/2026 | NGsoft | Salesforce Administrator | רעש | — | נפסל: חברת יישום | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4476631516/ |
+| 16/10/2026 | Confidential Careers | Senior Technical Project Manager – Salesforce | רעש | — | נפסל: חברת השמה, טכני | #13 + #15 | ממתין | https://www.linkedin.com/jobs/view/4476635924/ |
+| 16/10/2026 | Logica-IT | Technical Project Manager | רעש | — | נפסל: חברת IT/יישום | #13 + #15 | ממתין | https://www.linkedin.com/jobs/view/4476636466/ |
+| 16/10/2026 | Moveo Source | AI Implementation Specialist | רעש | — | נפסל: חברת יישום | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4478470033/ |
+| 16/10/2026 | Connecteam | Onboarding Manager - Mid Market & Enterprise | רעש | — | נפסל: הטמעה ללקוחות | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4470401818/ |
+| 16/10/2026 | Gotfriends | Delivery Manager | רעש | — | נפסל: חברת השמה | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4476639435/ |
+| 16/10/2026 | Rapyd | Director - Proprietary Domains | רעש | — | נפסל: לא רלוונטי | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4460613181/ |
+| 16/10/2026 | Confidential | Head of Legal | רעש | — | נפסל: תפקיד משפטי | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4477586154/ |
+| 16/10/2026 | Stratasys | Director, Global Compensation & Benefits | רעש | — | נפסל: HR | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4443157680/ |
+| 16/10/2026 | Nebius | People Program Manager | רעש | — | נפסל: HR | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4476681416/ |
+| 16/10/2026 | Doral | Executive Business Partner | רעש | — | נפסל: תפקיד מנהלי | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4476660863/ |
+| 16/10/2026 | Hire-Match | מנהל/ת אזור (Operational Director) | רעש | — | נפסל: תפעול, חברת השמה | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4476664018/ |
+| 16/10/2026 | Credo | Quality Director | רעש | — | נפסל: איכות | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4478473530/ |
+| 16/10/2026 | Bites | Head of Content Operations | רעש | — | נפסל: תפעול תוכן | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4478417544/ |
+| 16/10/2026 | Confidential | מנהל/ת שרשרת אספקה (עפולה) | רעש | — | נפסל: שרשרת אספקה | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4478421392/ |
+| 16/10/2026 | AT&T Israel R&D Center | Group Lead | רעש | — | נפסל: פיתוח | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4477271043/ |
+| 16/10/2026 | Stigg | Head of Engineering | רעש | — | נפסל: פיתוח | #3 + #11 | ממתין | https://www.linkedin.com/jobs/view/4479083846/ |
+| 16/10/2026 | UVeye | Engineering Director | רעש | — | נפסל: פיתוח | #3 + #12 | ממתין | https://www.linkedin.com/jobs/view/4479287425/ |
+| 16/10/2026 | Dot Compliance | Tech Lead — AI Infra & Security | רעש | — | נפסל: פיתוח | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4479534375/ |
+| 16/10/2026 | PointFive | Head of LLM Research | רעש | — | נפסל: מחקר/פיתוח | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4470405459/ |
+| 16/10/2026 | Hillcrest Labs (CEVA) | R&D Technical Project Manager, AI Division | רעש | — | נפסל: פיתוח (פורסם פעמיים: גם 4479513413 של Ceva) | #13 + #9 | ממתין | https://www.linkedin.com/jobs/view/4476657484/ |
+| 16/10/2026 | Varonis | R&D Team Leader | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4479528920/ |
+| 16/10/2026 | Pacaya HR Experts | ראש/ת צוות אלגוריתמים – ראייה ממוחשבת | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4478441462/ |
+| 16/10/2026 | Rafael | Head of Cloud Infrastructure & Scientific Computing | רעש | — | נפסל: ניהול IT/תשתיות | #2 + #12 | ממתין | https://www.linkedin.com/jobs/view/4459180041/ |
+| 16/10/2026 | Elad Software Systems | Head of Software Development (1007935) | רעש | — | נפסל: פיתוח | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4479044227/ |
+| 16/10/2026 | Zenity | Director of Platform Engineering | רעש | — | נפסל: פיתוח | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4474279863/ |
+| 16/10/2026 | ZutaCore | Director of Mechanical & Thermal Engineering | רעש | — | נפסל: הנדסה | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4455273267/ |
+| 16/10/2026 | Triple Whale | Director of Engineering, Measurement | רעש | — | נפסל: פיתוח | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4469448962/ |
+| 16/10/2026 | Ethosia | VP R&D | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4476462050/ |
+| 16/10/2026 | IAI | ראש/ת תחום פיתוח חומרה ושילובים | רעש | — | נפסל: הנדסה | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4477997129/ |
+| 16/10/2026 | Elbit Systems | Development Manager | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4382795738/ |
