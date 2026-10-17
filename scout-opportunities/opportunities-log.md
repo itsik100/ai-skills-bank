@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 16/10/2026 (מיילים עד 16/10/2026 06:44; 15 מיילי התראה, 41 משרות חדשות)
+ריצה אחרונה: 17/10/2026 (מיילים עד 17/10/2026 06:44; 14 מיילי התראה, 31 משרות חדשות)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -135,3 +135,34 @@
 | 16/10/2026 | Ethosia | VP R&D | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4476462050/ |
 | 16/10/2026 | IAI | ראש/ת תחום פיתוח חומרה ושילובים | רעש | — | נפסל: הנדסה | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4477997129/ |
 | 16/10/2026 | Elbit Systems | Development Manager | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4382795738/ |
+| 17/10/2026 | Check Point Software | AI Acceleration Group Manager | א' | 7 | נשלח (#1) · חשש: אולי האצת R&D טכנית | #7 + #2 + #3 + #4 + #9 | ממתין | https://www.linkedin.com/jobs/view/4477067602/ |
+| 17/10/2026 | Cal (כאל) | Head of Business Continuity & Processes JB-26802 | א' | 6 | גבולי: חצי BCP/רגולציה, פיננסים | #6 + #8 | ממתין | https://www.linkedin.com/jobs/view/4477075522/ |
+| 17/10/2026 | Logz.io | Head Of Business Operations | א' | 5 | גבולי: תפעול עסקי, לא חדשנות | #6 + #8 | ממתין | https://www.linkedin.com/jobs/view/4477069324/ |
+| 17/10/2026 | Maof - מעוף | Operational Excellence Manager | א' | 5 | גבולי: חיפה, דרג מנהל | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4479830014/ |
+| 17/10/2026 | ROOMS by Fattal | Salesforce Implementer | ב' | 5 | גבולי: ארגון גדול, אין מקבל החלטות (פורסם פעמיים: גם 4479117793) | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4479812651/ |
+| 17/10/2026 | McKinsey & Company | Engagement Manager | רעש | 4 | נפסל: ייעוץ אסטרטגי כללי | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4462439315/ |
+| 17/10/2026 | Unity | Senior Business Operations Manager, Maternity Leave Cover | רעש | — | נפסל: זמני, תפעול עסקי | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4472566449/ |
+| 17/10/2026 | Google | Waze Program Manager | רעש | — | נפסל: ניהול תוכנית מוצר | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4479147076/ |
+| 17/10/2026 | Mobileye | AI Engineering Execution Manager | רעש | — | נפסל: פיתוח (פורסם פעמיים: גם 4478841990, זמני) | #13 + #14 | ממתין | https://www.linkedin.com/jobs/view/4479116631/ |
+| 17/10/2026 | ONE datAI | Technical Project Manager | רעש | — | נפסל: חברת יישום | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4476680365/ |
+| 17/10/2026 | Elbit Systems | Integration and Installation Manager | רעש | — | נפסל: הנדסה | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4431522387/ |
+| 17/10/2026 | Mertens (מלם תים) | Salesforce Project Manager (37764) | רעש | — | נפסל: חברת יישום | #13 + #15 | ממתין | https://www.linkedin.com/jobs/view/4479837675/ |
+| 17/10/2026 | Mertens (מלם תים) | Digital Asset Manager (37263) | רעש | — | נפסל: חברת יישום | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4479822757/ |
+| 17/10/2026 | Mertens (מלם תים) | ServiceNow Team Lead (37526) | רעש | — | נפסל: חברת יישום | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4479815917/ |
+| 17/10/2026 | BST Group | Priority Implementor | רעש | — | נפסל: חברת יישום | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4477301350/ |
+| 17/10/2026 | YouCC Technologies | מנהל/ת פרויקטים טכני בכיר/ה – Salesforce | רעש | — | נפסל: חברת יישום | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4477307028/ |
+| 17/10/2026 | Papaya Global | Director of Growth Marketing | רעש | — | נפסל: שיווק | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4479819526/ |
+| 17/10/2026 | Taboola | VP R&D | רעש | — | נפסל: פיתוח | #12 + #1 | ממתין | https://www.linkedin.com/jobs/view/4479815370/ |
+| 17/10/2026 | Stealth Startup | Director of Software Engineering | רעש | — | נפסל: פיתוח | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4478858462/ |
+| 17/10/2026 | Medison Pharma | Global Planning Director | רעש | — | נפסל: תכנון שרשרת אספקה | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4478899716/ |
+| 17/10/2026 | WorldCom Finance | Head of Customer Service | רעש | — | נפסל: שירות לקוחות | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4476656481/ |
+| 17/10/2026 | UR talent | AI, Algorithms & Data Lead | רעש | — | נפסל: טכני, חברת השמה | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4478897166/ |
+| 17/10/2026 | Unilink | AI Development Team Lead | רעש | — | נפסל: פיתוח | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4479840302/ |
+| 17/10/2026 | StoreNext | R&D Team Lead - Agentic AI & Engineering | רעש | — | נפסל: פיתוח | #3 + #9 | ממתין | https://www.linkedin.com/jobs/view/4479728479/ |
+| 17/10/2026 | Nuvei | Agentic Software Engineering Expert | רעש | — | נפסל: פיתוח | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4479823484/ |
+| 17/10/2026 | PivotHR | Data Science & AI Lead | רעש | — | נפסל: טכני, חברת השמה | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4477077589/ |
+| 17/10/2026 | Elbit Systems | Head of Engineering Technologies | רעש | — | נפסל: הנדסה | #1 + #9 | ממתין | https://www.linkedin.com/jobs/view/4449872131/ |
+| 17/10/2026 | Alice (ActiveFence) | Director of AI Security Research | רעש | — | נפסל: מחקר/פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4480106627/ |
+| 17/10/2026 | Booking.com | Machine Learning Manager - Agentic Modeling | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4470972108/ |
+| 17/10/2026 | Roojoom | R&D Tech Lead | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4477078753/ |
+| 17/10/2026 | Seller Snap | Head of Research And Development | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4476636421/ |
