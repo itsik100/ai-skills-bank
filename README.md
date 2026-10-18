@@ -13,3 +13,4 @@ My personal AI prompts and skills library
 
 ## external
 - `external/digital-album/` — סקיל digital-album של Idan Shenhav (git subtree מ-`Idanshenhav/digital-album`, MIT). הסקיל עצמו: `external/digital-album/digital-album/`
+- `external/swan-gtm/kill-the-wall-of-text/` — סקיל kill-the-wall-of-text של Swan (Amos Bar-Joseph), עותק לא משונה מ-`swan-gtm/gtm-skills`, MIT. מקור: `SOURCE.md`
