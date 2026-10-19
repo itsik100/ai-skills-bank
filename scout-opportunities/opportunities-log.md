@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 18/10/2026 (מיילים עד 18/10/2026 04:44; 13 מיילי התראה, 15 משרות חדשות)
+ריצה אחרונה: 19/10/2026 (מיילים עד 18/10/2026 19:44; 8 מיילי התראה, 7 משרות חדשות, 0 מעל הסף)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -166,7 +166,7 @@
 | 17/10/2026 | Booking.com | Machine Learning Manager - Agentic Modeling | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4470972108/ |
 | 17/10/2026 | Roojoom | R&D Tech Lead | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4477078753/ |
 | 17/10/2026 | Seller Snap | Head of Research And Development | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4476636421/ |
-| 18/10/2026 | HonestReporting | Director of Technology & Innovation | א' | 7 | נשלח (#1) · חשש: ארגון קטן, אולי IT מעשי ושכר נמוך | #1 + #2 + #3 + #4 + #7 + #9 + #11 + #12 | ממתין | https://www.linkedin.com/jobs/view/4477330108/ |
+| 18/10/2026 | HonestReporting | Director of Technology & Innovation | א' | 7 | נשלח (#1) · חשש: ארגון קטן, אולי IT מעשי ושכר נמוך | #1 + #2 + #3 + #4 + #7 + #9 + #11 + #12 | ממתין · איציק הגיש מועמדות ב-LinkedIn בעצמו (אישור 18/10) | https://www.linkedin.com/jobs/view/4477330108/ |
 | 18/10/2026 | Check Point Software | AI Transformation Architect | א' | 6 | גבולי: Architect, כנראה טכני | #3 + #4 + #11 | ממתין | https://www.linkedin.com/jobs/view/4479303689/ |
 | 18/10/2026 | GlobalDots | Head of Business Systems & IT | א' | 5 | גבולי: חצי ניהול IT | #2 + #7 + #8 + #15 | ממתין | https://www.linkedin.com/jobs/view/4477392768/ |
 | 18/10/2026 | Mobileye | R&D Lifecycle & Process Management | א' | 5 | גבולי: תהליכי R&D, דרג לא ידוע (ירושלים) | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4469689192/ |
@@ -181,3 +181,10 @@
 | 18/10/2026 | Stampli | CX Manager - ERP Integration Solution | רעש | — | נפסל: הטמעה ללקוחות | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4444442342/ |
 | 18/10/2026 | Global Payments | Product Delivery Manager | רעש | — | נפסל: מסירת מוצר | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4471477457/ |
 | 18/10/2026 | אפקט המודעות | Project & Operations Manager (חיפה) | רעש | — | נפסל: תפעול, ארגון קטן | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4477365844/ |
+| 19/10/2026 | Jobist | מנהל/ת פרויקט AI | א' | 5 | גבולי: דרג PM, חברת השמה, אין תקציר | #13 + #4 + #11 + #9 | ממתין | https://www.linkedin.com/jobs/view/4477732840/ |
+| 19/10/2026 | Delta Galil Industries | Manufacturing Systems Specialist | ב' | 3 | נפסל: תפקיד ביצועי, ארגון מעל 2,000, אין סיגנל הטמעה מוצהר (קיסריה) | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4468229341/ |
+| 19/10/2026 | Alice (ActiveFence) | Technical Project Manager | רעש | — | נפסל: ניהול פרויקט טכני | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4470904993/ |
+| 19/10/2026 | Alice (ActiveFence) | Member of the Technical Staff, AI Research - CTO Office | רעש | — | נפסל: מחקר/פיתוח | #11 + #9 | ממתין | https://www.linkedin.com/jobs/view/4465040228/ |
+| 19/10/2026 | Novocure | Scientific Director, Physics | רעש | — | נפסל: מחקר מדעי | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4443359203/ |
+| 19/10/2026 | Google | Design AI Lead, Google Cloud | רעש | — | נפסל: עיצוב/מוצר (פורסם פעמיים: גם 4461920643, חיפה) | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4461929084/ |
+| 19/10/2026 | NVIDIA | Principal Networking AI Systems Architect | רעש | — | נפסל: פיתוח | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4461933485/ |
