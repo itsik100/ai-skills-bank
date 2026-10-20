@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 19/10/2026 (מיילים עד 18/10/2026 19:44; 8 מיילי התראה, 7 משרות חדשות, 0 מעל הסף)
+ריצה אחרונה: 20/10/2026 (מיילים עד 20/10/2026 03:44 UTC; 13 מיילי התראה, 36 משרות חדשות, 3 מעל הסף)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -188,3 +188,39 @@
 | 19/10/2026 | Novocure | Scientific Director, Physics | רעש | — | נפסל: מחקר מדעי | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4443359203/ |
 | 19/10/2026 | Google | Design AI Lead, Google Cloud | רעש | — | נפסל: עיצוב/מוצר (פורסם פעמיים: גם 4461920643, חיפה) | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4461929084/ |
 | 19/10/2026 | NVIDIA | Principal Networking AI Systems Architect | רעש | — | נפסל: פיתוח | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4461933485/ |
+| 20/10/2026 | IAI - Israel Aerospace Industries | ראש/ת מינהל AI | א' | 8 | נשלח (#1) · חשש: תעשייה ביטחונית, ייתכן רקע הנדסי/סיווג; ייתכן שכבר הוגש (אישור הגשה לתעשייה האווירית 18/10, בלי שם תפקיד) | #3 + #2 + #9 + #1 + #4 + #7 | ממתין | https://www.linkedin.com/jobs/view/4479932379/ |
+| 20/10/2026 | Deloitte | Senior Transformation Consultant | א' | 7 | נשלח (#2) · חשש: דרג יועץ בכיר (מתחת לרמת איציק), שכר הערכה כנראה מתחת ל-35K | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4475382044/ |
+| 20/10/2026 | INNOVA | Salesforce Specialist (פרסום חוזר, 4476013509 ב-13/10) | ב' | 6 | נשלח (#3) · סיגנל חזרה; חשש: ייתכן חברת יישום, גודל ותעשייה לא ידועים | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4478214501/ |
+| 20/10/2026 | Weizmann Institute of Science | Head of Digital and Data Branch | א' | 6 | גבולי: מוסד אקדמי, אולי דאטה/IT טכני | #2 + #9 + #7 + #8 | ממתין | https://www.linkedin.com/jobs/view/4478228436/ |
+| 20/10/2026 | Confidential Careers | Head of Business Continuity & Operational Excellence | א' | 6 | גבולי: כנראה כפילות של כאל (17/10), חצי BCP | #6 + #8 | ממתין | https://www.linkedin.com/jobs/view/4478215886/ |
+| 20/10/2026 | Shavit Software | Operational Excellence Manager | א' | 5 | גבולי: דרג מנהל, חברת תוכנה/יישום | #14 + #8 | ממתין | https://www.linkedin.com/jobs/view/4480869937/ |
+| 20/10/2026 | Clalit Innovation | Project Manager | א' | 5 | גבולי: דרג PM, אבל זרוע חדשנות | #13 + #9 | ממתין | https://www.linkedin.com/jobs/view/4477793791/ |
+| 20/10/2026 | EY | Business Technology Consultant | א' | 5 | גבולי: דרג יועץ, כנראה טכני, מיקום לא ידוע | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4433927545/ |
+| 20/10/2026 | BIRD Aerosystems | AI & Automation Specialist – IT Department | ב' | 4 | נפסל: ביטחוני, לא הטמעת מערכת ליבה, גודל לא ידוע | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4480901935/ |
+| 20/10/2026 | KAMADA | Head of Information Technology | רעש | — | נפסל: ניהול IT | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4478219115/ |
+| 20/10/2026 | Yael Group | Technology Lead for Manufacturing Information Systems (25836) | רעש | — | נפסל: חברת יישום, טכני | #13 + #2 + #7 | ממתין | https://www.linkedin.com/jobs/view/4478229418/ |
+| 20/10/2026 | PwC NEXT Technology Solutions | Delivery Team Leader JB-769 | רעש | — | נפסל: delivery טכני | #2 + #4 | ממתין | https://www.linkedin.com/jobs/view/4480871971/ |
+| 20/10/2026 | Alice (ActiveFence) | Director of AI Research & Data Operations | רעש | — | נפסל: מחקר/דאטה | #1 + #4 | ממתין | https://www.linkedin.com/jobs/view/4480882226/ |
+| 20/10/2026 | NiCE | Director Engineering | רעש | — | נפסל: פיתוח | #3 + #4 + #12 | ממתין | https://www.linkedin.com/jobs/view/4478223439/ |
+| 20/10/2026 | NiCE | R&D Director | רעש | — | נפסל: פיתוח | #3 + #12 | ממתין | https://www.linkedin.com/jobs/view/4478213807/ |
+| 20/10/2026 | Toka | R&D Group Lead | רעש | — | נפסל: פיתוח | #3 + #9 | ממתין | https://www.linkedin.com/jobs/view/4479918411/ |
+| 20/10/2026 | Rafael | מנהל.ת תחום עיבוד וניתוח חוזי | רעש | — | נפסל: הנדסה | #3 + #9 | ממתין | https://www.linkedin.com/jobs/view/4470406465/ |
+| 20/10/2026 | StarHunter | CTO - Gaming | רעש | — | נפסל: פיתוח | #1 Head of Innovation | ממתין | https://www.linkedin.com/jobs/view/4478211466/ |
+| 20/10/2026 | JobsSeek | Head of Engineering | רעש | — | נפסל: פיתוח | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4479921420/ |
+| 20/10/2026 | Gotfriends | AI Architect | רעש | — | נפסל: טכני, חברת השמה | #4 AI Adoption | ממתין | https://www.linkedin.com/jobs/view/4478203890/ |
+| 20/10/2026 | Similarweb | Director - Corporate Development & M&A | רעש | — | נפסל: פיתוח עסקי | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4445250866/ |
+| 20/10/2026 | Cellebrite | Director of Global Procurement | רעש | — | נפסל: רכש | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4425825200/ |
+| 20/10/2026 | NXP Semiconductors | Director SoC Design Engineering - MCU | רעש | — | נפסל: הנדסה | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4407173202/ |
+| 20/10/2026 | IAI | ראש/ת תחום שירות ותפעול לוגיסטיקה | רעש | — | נפסל: לוגיסטיקה | #6 + #8 | ממתין | https://www.linkedin.com/jobs/view/4479927443/ |
+| 20/10/2026 | Kroll Consulting | Head of Managed Security Services | רעש | — | נפסל: אבטחה | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4480879067/ |
+| 20/10/2026 | Nebius | Corporate Operational Project Manager | רעש | — | נפסל: תפעול | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4478223591/ |
+| 20/10/2026 | The Jewish Agency for Israel | Senior Human Resources Manager | רעש | — | נפסל: HR | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4478231250/ |
+| 20/10/2026 | AllCloud | Salesforce Project Manager | רעש | — | נפסל: חברת יישום | #14 + #15 | ממתין | https://www.linkedin.com/jobs/view/4470280603/ |
+| 20/10/2026 | AllCloud | Salesforce Solution Architect | רעש | — | נפסל: חברת יישום | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4470285529/ |
+| 20/10/2026 | ONE Technologies | Tech Lead CRM | רעש | — | נפסל: חברת יישום | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4478213202/ |
+| 20/10/2026 | Confidential Careers | Information Technology Project Manager | רעש | — | נפסל: חברת השמה, IT | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4478229403/ |
+| 20/10/2026 | Maof - מעוף | Information Technology (IT) Manager | רעש | — | נפסל: ניהול IT (פרדס חנה) | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4480885091/ |
+| 20/10/2026 | PICK HR | Client-Facing Project Manager - US Enterprise Clients | רעש | — | נפסל: חברת השמה | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4478244015/ |
+| 20/10/2026 | Silverfort | Technical Enablement Manager | רעש | — | נפסל: הכשרה טכנית | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4445705929/ |
+| 20/10/2026 | Rapyd | Information Systems Manager | רעש | — | נפסל: ניהול IT/MIS | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4471924225/ |
+| 20/10/2026 | Google | Outcome Customer Engineer, GCP Delivery | רעש | — | נפסל: טכני ללקוחות | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4464540206/ |
