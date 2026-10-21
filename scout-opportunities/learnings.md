@@ -72,3 +72,9 @@
 - **חברת השמה עם כותרת דומה למשרה קיימת:** Confidential Careers "Head of Business Continuity & Operational Excellence" דומה ל-כאל "Head of Business Continuity & Processes" (17/10). ציון אחיד (6), מסומן "כנראה כפילות" לפי כלל 14/10.
 - **התראה #12 (ConTech/LegalTech), יום שישי — מועד ההחלטה (20/10):** 0/6 רלוונטיות (NiCE ×2, NXP, Cellebrite, Similarweb, LiveU שכבר בלוג). מצטבר: פריט אחד מעל הסף (HonestReporting, דרך "Innovation"). הומלץ לאיציק במייל להחליף אותה.
 - **Senior Consultant בחברות ייעוץ (Big 4):** לפי הטבלה מקבל 7 (התאמה 3 + תחום 2 + מיקום + שכר לא ידוע), למרות בכירות 0. אם איציק דוחה בגלל דרג — לשקול כלל: בכירות 0 + חברת ייעוץ = שכר "הערכה" 0 במקום 1.
+
+## ריצה 21/10/2026
+- **comblack מגייסת שני תפקידי מערכות פנימיים במקביל** (Systems Implementation & Operations Manager + Information Systems & CRM Specialist, ירושלים). נרשמו כליד אחד (ציון 6). ב-14/10 סווגה כ"חברת שירותי IT". אם איציק דוחה בגלל זה — לסווג את comblack כחברת שירותים (רעש במסלול ב').
+- **Teva Site Opex (Senior Director)** קיבל 7 לפי הטבלה, אבל OpEx באתר ייצור פרמה עשוי לדרוש רקע ייצור/GMP. בנק הפועלים OpEx נדחה 14/10 בלי סיבה. אם איציק דוחה גם את Teva — לשקול להוריד נקודה בהתאמת תפקיד ל-OpEx תעשייתי/ייצורי (להבדיל מ-OpEx בשירותים).
+- **Lemonade "Director of Business Applications"** הופיע ב-6 התראות ביום אחד. ציון 6 (גבולי), עקבי עם Cloudinary Head of MIS ו-GlobalDots: מערכות עסקיות = חצי IT.
+- **מכון ויצמן מגייס תפקיד דיגיטל שני** (Head of HR & ERP Systems, אחרי Head of Digital and Data ב-20/10). סיגנל לתוכנית דיגיטל, אבל ארגון מעל טווח הגודל; לא עבר סף.
