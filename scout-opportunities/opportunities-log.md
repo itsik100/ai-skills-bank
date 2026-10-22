@@ -261,8 +261,8 @@
 | 21/10/2026 | CONTACT | Head of Operations | רעש | — | נפסל: תפעול (קיסריה) | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4479983196/ |
 | 21/10/2026 | Nexite | Director Product Manager | רעש | — | נפסל: ניהול מוצר | #4 AI Adoption | ממתין | https://www.linkedin.com/jobs/view/4480971444/ |
 | 21/10/2026 | Mindspace | Salesforce & GenAI Developer | רעש | — | נפסל: פיתוח | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4466701836/ |
-| 22/10/2026 | Landa | Head of AI Transformation (רחובות) | א' | 8 | נשלח (#1) · חשש: לא ידוע אם התפקיד טכני; תעשייה (דפוס דיגיטלי) לא תעשיית יעד | משרות דומות במייל אישור הגשה | ממתין | https://www.linkedin.com/jobs/view/4480974279/ |
-| 22/10/2026 | Clalit Innovation | AI Labs Lead | א' | 7 | נשלח (#2) · חשש: "Labs" עשוי להיות תפקיד מחקר/דאטה טכני; שכר במגזר הבריאות אולי מתחת לסף | #4 + #2 + #11 + #9 + #3 | ממתין | https://www.linkedin.com/jobs/view/4478667704/ |
+| 22/10/2026 | Landa | Head of AI Transformation (רחובות) | א' | 8 | נשלח (#1) · חשש: לא ידוע אם התפקיד טכני; תעשייה (דפוס דיגיטלי) לא תעשיית יעד | משרות דומות במייל אישור הגשה | כן ("1 כן", 22/10) · חבילת פנייה נשלחה 22/10 · איציק הגיש בעצמו 22/10 | https://www.linkedin.com/jobs/view/4480974279/ |
+| 22/10/2026 | Clalit Innovation | AI Labs Lead | א' | 7 | נשלח (#2) · חשש: "Labs" עשוי להיות תפקיד מחקר/דאטה טכני; שכר במגזר הבריאות אולי מתחת לסף | #4 + #2 + #11 + #9 + #3 | כן ("2 כן", 22/10) · חבילת פנייה נשלחה 22/10 · איציק הגיש בעצמו 22/10 | https://www.linkedin.com/jobs/view/4478667704/ |
 | 22/10/2026 | Ethos | CTO / Head of AI at Financial Services Companies | א' | 6 | גבולי: CTO, דרישת רקע טכנולוגי; נראה כמאגר של חברת השמה | #3 Head of AI | ממתין | https://www.linkedin.com/jobs/view/4472758788/ |
 | 22/10/2026 | KPMG Israel | AI Consultant | א' | 6 | גבולי: דרג יועץ, לא Head; ייתכן תפקיד טכני (כלל Deloitte 15/10) | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4480462309/ |
 | 22/10/2026 | airSlate | Principal AI Product Manager | א' | 5 | גבולי: ניהול מוצר IC, אבל AI בכותרת ותחום מסמכים/חתימות | #11 בינה מלאכותית | ממתין | https://www.linkedin.com/jobs/view/4480265484/ |
