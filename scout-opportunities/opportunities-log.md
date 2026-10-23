@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 22/10/2026 (מיילים עד 22/10/2026 03:44 UTC; 13 מיילי התראה + אישור הגשה אחד, 27 משרות חדשות, 2 מעל הסף)
+ריצה אחרונה: 23/10/2026 (מיילים עד 22/10/2026 15:44 UTC; 6 מיילי התראה/המלצות + 2 אישורי הגשה, 21 משרות חדשות, 5 מעל הסף)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -288,3 +288,24 @@
 | 22/10/2026 | JobsSeek | SAP Implementation Specialist | רעש | — | נפסל: חברת השמה, ביצועי | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4370699223/ |
 | 22/10/2026 | Manpower Israel | Execution Manager | רעש | — | נפסל: חברת השמה | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4480963564/ |
 | 22/10/2026 | Mertens (מלם תים) | Technology Project Manager (37836) | רעש | — | נפסל: חברת יישום | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4480967861/ |
+| 23/10/2026 | TAPI | Chief Digital Information Officer | א' | 7 | נשלח (#1) · חשש: CDIO = גם CIO (ניהול IT/תשתיות), פרמה תעשייתית; ייתכן מעל הדרג ודורש רקע IT ארגוני | #1 + #4 + #7 + #8 + #3 + #12 + #2 + #11 | ממתין | https://www.linkedin.com/jobs/view/4482050732/ |
+| 23/10/2026 | Sheba Medical Center | מנהל/ת מחלקת או"ש | א' | 7 | נשלח (#2) · חשש: שכר במגזר הציבורי (הערכה: כנראה מתחת ל-35K); או"ש קלאסי, פחות טכנולוגיה | #6 + #8 | ממתין | https://www.linkedin.com/jobs/view/4478995092/ |
+| 23/10/2026 | CodeValue | Organizational & Technology Transformation Program Manager | א' | 7 | נשלח (#3) · חשש: חברת ייעוץ/יישום, ייתכן תפקיד אצל לקוח; דרג PM ולא Head (ירושלים) | #14 + #13 + #9 + המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4482098392/ |
+| 23/10/2026 | mylo AI | AI & Technology Transformation Manager | א' | 7 | נשלח (#4) · חשש: חברה לא מוכרת, גודל לא ידוע; דרג Manager | משרות דומות במיילי אישור הגשה (Landa, Clalit) | ממתין | https://www.linkedin.com/jobs/view/4468569635/ |
+| 23/10/2026 | Vishay Precision Group (VPG) | CRM & Digital Solutions Senior Manager | ב' | 6 | נשלח (#5) · ליד: גיוס מקביל של Business Operations Excellence Lead; קשר אחד משותף | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4482045669/ |
+| 23/10/2026 | Vishay Precision Group (VPG) | Business Operations Excellence Lead | א' | 6 | גבולי: דרג Lead, תעשייה (חיישנים) לא תעשיית יעד; מוזכר בליד #5 | #6 + המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4482049733/ |
+| 23/10/2026 | NiCE | Director, Talent Acquisition Transformation | א' | 6 | גבולי: טרנספורמציה בתוך HR/גיוס, כנראה דורש רקע TA | #6 + #4 + #7 + #8 + #2 | ממתין | https://www.linkedin.com/jobs/view/4471204733/ |
+| 23/10/2026 | Cloudinary | Director of Global Corporate Program Management | א' | 5 | גבולי: PMO תאגידי, לא חדשנות (גם 4481141548, רמת ישי) | #6 + #8 + #2 | ממתין | https://www.linkedin.com/jobs/view/4481138578/ |
+| 23/10/2026 | Base44 | Base44 for Good Lead | א' | 5 | גבולי: תוכנית חברתית בחברת AI, לא טרנספורמציה | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4479818323/ |
+| 23/10/2026 | Latent AI | AI Engagement Lead | א' | 5 | גבולי: כנראה תפקיד מול לקוחות; מיקום לא ידוע | משרות דומות במיילי אישור הגשה | ממתין | https://www.linkedin.com/jobs/view/4474945718/ |
+| 23/10/2026 | Sheba Medical Center | מהנדס/ת תעשייה וניהול | רעש | — | נפסל: דרג נמוך (גיוס מקביל למחלקת או"ש, #2) | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4478997027/ |
+| 23/10/2026 | JobsSeek | Vice President Operations | רעש | — | נפסל: תפעול, חברת השמה (קיסריה) | #6 + #8 + #2 | ממתין | https://www.linkedin.com/jobs/view/4436050019/ |
+| 23/10/2026 | Asperii | Salesforce Systems Analyst | רעש | — | נפסל: חברת יישום | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4478993123/ |
+| 23/10/2026 | monday.com | Deployment Strategist | רעש | — | נפסל: הטמעה ללקוחות אצל ספק | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4478322313/ |
+| 23/10/2026 | Yael Group | Program manager (25804) | רעש | — | נפסל: חברת השמה/יישום | המלצות LinkedIn | ממתין | https://www.linkedin.com/jobs/view/4476625882/ |
+| 23/10/2026 | BLeader | AI Team lead | רעש | — | נפסל: פיתוח | #3 + #11 | ממתין | https://www.linkedin.com/jobs/view/4479418104/ |
+| 23/10/2026 | Cust2Mate - A2Z | CTO | רעש | — | נפסל: פיתוח | #12 ConTech/LegalTech | ממתין | https://www.linkedin.com/jobs/view/4481105250/ |
+| 23/10/2026 | IAI | מנהל/ת פרויקטים טכנולוגיים [76044432] | רעש | — | נפסל: פרויקט ביטחוני/הנדסי (לוד) | #13 + #9 | ממתין | https://www.linkedin.com/jobs/view/4480793756/ |
+| 23/10/2026 | IAI | Project Manager to lead complex UAV development programs | רעש | — | נפסל: פיתוח ביטחוני | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4478985830/ |
+| 23/10/2026 | jobforallhr | מנהל/ת בכיר למחלקת פרוייקטים לחברה יצרנית גלובלית | רעש | — | נפסל: פרויקטים בייצור, חיפה, חברת השמה | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4479417847/ |
+| 23/10/2026 | Elbit Systems | R&D Manager | רעש | — | נפסל: פיתוח (ירושלים) | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4385430713/ |
