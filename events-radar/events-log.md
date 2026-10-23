@@ -1,6 +1,6 @@
 # רדאר אירועים — לוג
 
-ריצה אחרונה: 22/10/2026 (ריצה יומית)
+ריצה אחרונה: 23/10/2026 (ריצה יומית)
 
 ## אירועים
 סטטוס: נשלח / במעקב / גבולי / נפסל / עבר. החלטת איציק: ממתין / מעוניין / נרשם / לא רלוונטי.
@@ -15,7 +15,7 @@
 | E006 | 19/10/2026 | Evolve to AI: Make Your Code Agentic (גיקטיים) | 04/11/2026 | כנס | אודיטוריום סמולרז, אונ' ת"א | 5 | גבולי | https://gkt.me/4wrt1Hg | ממתין | בתשלום, מוטה מפתחים | — |
 | E007 | 19/10/2026 | Cloud AI Day Tel Aviv (Google Cloud) | 16/11/2026 | כנס | אקספו תל אביב, ביתן 10 | 5 | גבולי | https://gkt.me/3VHj8bE | ממתין | Agentic AI ודאטה, קהל טכני | — |
 | E008 | 19/10/2026 | ועידת ישראל לעסקים ה-33 (גלובס) | 01/12/2026 | כנס | — | 6 | נשלח | https://www.globes.co.il/ibc?leadid=10059 | ממתין | נטוורקינג הנהלות. מקום ומחיר לא נבדקו | sriifq2p4uddpv693j8mbn13vo |
-| E009 | 19/10/2026 | כנס בינה 6 — מודיעין ודאטה (לשכת המהנדסים) | 19/11/2026 | כנס | — | 6 | במעקב | https://www.aeai.org.il/activity_cat/conferences-and-seminars/ | ממתין | דף ההרשמה חוסם קריאה אוטומטית — לא אומת. 20/10: דף האירוע חסום ב-robots, עדיין לא אומת | — |
+| E009 | 19/10/2026 | כנס בינה 6 — מודיעין ודאטה (לשכת המהנדסים) | 19/11/2026 | כנס | בית המהנדס, דיזנגוף 200, ת"א | 5 | גבולי | https://intelligence-and-data-conference-2026.form-wizard.co/users/new | ממתין | דף ההרשמה חוסם קריאה אוטומטית — לא אומת. 20/10: דף האירוע חסום ב-robots. 23/10: עדכון — דף האירוע (aeai.org.il/activity/intelligence-and-data-conference/) נפתח: 09:00-15:30, 120 ₪, קישור הרשמה קיים. קהל דאטה/מהנדסים, מושבי תאומים דיגיטליים ושינוי ארגוני — ציון 5, גבולי | — |
 | E010 | 19/10/2026 | שבוע הרייטק הישראלי — יום AI | 02/11/2026 | שבוע אירועים | ערים שונות ואונליין | — | במעקב | https://www.geektime.co.il/event/ | ממתין | אין עדיין קישור הרשמה. 20/10: עדיין בלי קישור בגיקטיים (01-06/11) | — |
 | E011 | 19/10/2026 | שבוע נדל"ן 2026 (כלכליסט) | 20-23/12/2026 | שבוע שידורים | — | — | במעקב | https://www.calcalist-conferences-2026.co.il/ | ממתין | אין עדיין קישור הרשמה. 21/10: דף realestate2026 נפתח — 20-23/12, 12:00, שידור באתר כלכליסט עם אשטרום; 23/12 = פרופטק ועתיד הנדל"ן. קישור "הגשת מועמדות" בדף מוביל בטעות לטופס RoadShow+ — לא הרשמה תקינה | — |
 | E012 | 19/10/2026 | כנס כלכלת הנדל"ן (כלכליסט) | 12/01/2027 | כנס | הילטון תל אביב | — | במעקב | https://www.calcalist-conferences-2026.co.il/ | ממתין | התחדשות עירונית ופיתוח תשתיות. אין עדיין הרשמה | — |
@@ -38,7 +38,7 @@
 | E029 | 20/10/2026 | Future of AI 2026 (Lynx) | 21/10/2026 | כנס | הילטון ת"א | — | עבר | https://events.lynx.co/future-of-ai/ | — | מחר, דף לא נפתח, ת"א יום שלם (נפסל) | — |
 | E030 | 20/10/2026 | AI in the Fast Lane (Netskope) | 22/10/2026 | כנס | East, ת"א | 2 | נפסל | https://events.netskope.com/aiinthefastlanetelaviv2026 | — | אירוע ספק אבטחת מידע | — |
 | E031 | 20/10/2026 | הכנס השנתי ממר"ם 2026 | 12/11/2026 | כנס | אקספו ת"א | 3 | נפסל | https://i-love-mamram-2026.events.co.il/home | — | קהל IT צבאי | — |
-| E032 | 20/10/2026 | כנס הפתיחה של עמותת "ספרה" | 30/11/2026 | כנס | דלויט, עזריאלי ת"א | — | נפסל | https://sfera-2026.events.co.il/home | — | דף לא נפתח, נושא לא ידוע | — |
+| E032 | 20/10/2026 | כנס הפתיחה של עמותת "ספרה" | 30/11/2026 | כנס | דלויט, עזריאלי ת"א | — | נפסל | https://sfera-2026.events.co.il/home | — | דף לא נפתח, נושא לא ידוע. 23/10: בלוח events.co.il הנושא "עתיד העבודה המשתנה בעולם ה-AI", 09:00-12:00; הדף עדיין לא נפתח (PROVENANCE) | — |
 | E033 | 20/10/2026 | TOP SUMMIT 2026 | 01/12/2026 | כנס | לאגו, ראשון לציון | — | נפסל | https://top-summit-2026.events.co.il/home | — | נושא לא ידוע, לא אומת | — |
 | E034 | 20/10/2026 | מפגש רשות החדשנות — שבוע ההייטק | 02/11/2026 | מפגש | האב רשות החדשנות, ת"א | 3 | נפסל | https://innovationisrael.org.il/event/meetiiaathightchweek/ | — | 10:00-13:00. היכרות עם תוכניות הרשות, לא קהל I2E | — |
 | E035 | 20/10/2026 | לראות מעבר לטרנד — כנס השקעות (גלובס) | 08/11/2026 | כנס | — | — | נפסל | https://www.globes.co.il/news/home.aspx?fid=16740&leadid=10124 | — | השקעות בבורסה | — |
@@ -59,18 +59,26 @@
 | E050 | 22/10/2026 | Agentic AI in the Enterprise — Free Virtual Summit (Redmondmag) | לא ידוע | כנס וירטואלי | אונליין | — | במעקב | https://redmondmag.com/microsites/2026/agentic-ai-in-the-enterprise-what-it-means-and-why-it-matters-now/home.aspx | — | הדף לא נפתח (client_error) — תאריך וקהל לא אומתו | — |
 | E051 | 22/10/2026 | Infinite Change — Prosci Executive Summit North America | 26-28/10/2026 | כנס | דנוור, ארה"ב | — | נפסל | https://empower.prosci.com/nam-ignite-change-summit-2026 | — | פיזי מחוץ לישראל | — |
 | E052 | 22/10/2026 | Accelerate Digital Transformation and AI Integration — Executive Breakfast (Prosci) | 23/10/2026 | אירוע בוקר | קנברה, אוסטרליה | — | נפסל | https://events.prosci.com/register-6ffb6fee-6206-48a4-af19-a3979c084cc6/ | — | פיזי מחוץ לישראל | — |
+| E053 | 23/10/2026 | Built There, Done That (גיקטיים) | 28/10/2026 | אירוע | הגליל 6, ת"א | — | נפסל | (קישור lnkd.in — לא נפתח) | — | 10:00-13:00, 60 ₪. קישור ההרשמה הוא LinkedIn — אסור לפתוח, לא אומת | — |
+| E054 | 23/10/2026 | One Place to Rule Them All: The New Era of Observability | 28/10/2026 | וובינר | אונליין | 1 | נפסל | https://luma.com/p358kw8k | — | 11:00-12:00. נושא טכני (Observability), לא קהל I2E | — |
+| E055 | 23/10/2026 | Gemini 4 Argon: From Frontier AI to Enterprise Impact (Google) | 10/11/2026 | אירוע בוקר | משרדי Google, ת"א | — | במעקב | https://gkt.me/4ytGvDi | — | 09:00-12:00, חינם (לפי גיקטיים). דף האירוע לא נפתח (PROVENANCE) — קהל ותנאי הרשמה לא אומתו. ייתכן שזה אותו אירוע כמו E049 (בהזמנה בלבד) | — |
+| E056 | 23/10/2026 | בטיחות בעבודה — רגולציה באתרי בנייה (כלכליסט) | 03/11/2026 | שידור | אונליין, אתר כלכליסט | — | במעקב | https://www.calcalist-conferences-2026.co.il/ | — | מופיע בלוח כלכליסט בלי קישור הרשמה. בטיחות, לא ליבת I2E | — |
+| E057 | 23/10/2026 | הבמה המרכזית 2026: נדל"ן משנה מציאות (מגדילים) | 06/10/2026 | כנס | חוות רונית | — | עבר | https://funder.co.il/article/210657 | — | התקיים. התחדשות עירונית; לעקוב אחרי מחזור 2027 | — |
+| E058 | 23/10/2026 | AI in Change Management (ACMP, Peacock Hill) | 06/08/2026 | וובינר | אונליין | — | נפסל | https://www.acmpglobal.org/events/EventDetails.aspx?id=2068397 | — | התקיים | — |
+| E059 | 23/10/2026 | Leading the Shift: Smart AI Adoption for Business (UH SBDC) | 24/03/2026 | וובינר | אונליין | — | נפסל | https://www.sbdc.uh.edu/assnfe/ev.asp?ID=15824 | — | התקיים, הרשמה סגורה | — |
+| E060 | 23/10/2026 | AI in Organizational Change Management (Educate360) | לא צוין | וובינר | אונליין | — | נפסל | https://educate360.com/webinar/ai-in-organizational-change-management-where-to-use-ai-where-to-stay-human-2/ | — | אין תאריך ואין קישור הרשמה | — |
 
 ## מקורות שנבדקו
 | מקור | נבדק לאחרונה | הערה |
 |---|---|---|
-| geektime.co.il/event | 22/10/2026 | עובד; 3 אירועים חדשים, כולם נפסלו |
-| calcalist-conferences-2026.co.il | 21/10/2026 | עובד (דפים פנימיים נפתחים אחרי חיפוש) |
+| geektime.co.il/event | 23/10/2026 | עובד (אחרי WebSearch); 3 חדשים — 2 נפסלו, 1 במעקב |
+| calcalist-conferences-2026.co.il | 23/10/2026 | עובד; חדש בלוח: בטיחות בעבודה 03/11 (בלי קישור) |
 | globes.co.il ועידות | 22/10/2026 | עובד; globes.co.il/conference/ — אין חדש |
-| aeai.org.il כנסים | 20/10/2026 | דף כנס בינה חסום ב-robots |
+| aeai.org.il כנסים | 23/10/2026 | דף כנס בינה (intelligence-and-data-conference) נפתח אחרי WebSearch |
 | eng-con.org.il | 19/10/2026 | איציק ויתר על E001; לא נבדק |
 | building.org.il | 22/10/2026 | schedule26 — רק אירועי יוני 2026; אין אירועים עתידיים |
 | acb.org.il/events | 22/10/2026 | נבדק דף E025 בלבד; דפי אירוע ישנים (2024-2025) עדיין בלוח |
-| events.co.il/events | 21/10/2026 | עובד; events/online ריק |
+| events.co.il/events | 23/10/2026 | עובד; אין אירועים חדשים. דפי אירוע פנימיים לא נפתחים (PROVENANCE) |
 | israelbar.biz/events | 20/10/2026 | חוסם (URL rejected) |
 | midrashalaw.org.il | 20/10/2026 | עובד, אין אירועי AI |
 | innovationisrael.org.il | 20/10/2026 | עובד |
@@ -83,3 +91,5 @@
 | sectionai.com events | 21/10/2026 | חדש; כנסים וירטואליים ל-CIO/COO על AI |
 | buildingsmart.org/events | 22/10/2026 | חדש; אין תאריכים עתידיים מפורסמים |
 | selacloud.com events | 22/10/2026 | חדש; אירוע CxO נסגר להרשמה |
+| acmpglobal.org events | 23/10/2026 | וובינר AI in Change Management — עבר |
+| funder.co.il | 23/10/2026 | חדש; כתבות על כנסי נדל"ן (לא לוח) |
