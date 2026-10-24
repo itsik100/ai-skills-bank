@@ -1,6 +1,6 @@
 # סקאוט — לוג הזדמנויות
 
-ריצה אחרונה: 23/10/2026 (מיילים עד 22/10/2026 15:44 UTC; 6 מיילי התראה/המלצות + 2 אישורי הגשה, 21 משרות חדשות, 5 מעל הסף)
+ריצה אחרונה: 24/10/2026 (מיילים עד 23/10/2026 13:44 UTC; 5 מיילי התראה, 16 משרות חדשות + 3 חזרות, 2 מעל הסף)
 עיבוד מיילים מ: 13/10/2026
 
 | תאריך | חברה | תפקיד | מסלול | ציון | תוצאה | התראה # | החלטת איציק | קישור |
@@ -309,3 +309,19 @@
 | 23/10/2026 | IAI | Project Manager to lead complex UAV development programs | רעש | — | נפסל: פיתוח ביטחוני | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4478985830/ |
 | 23/10/2026 | jobforallhr | מנהל/ת בכיר למחלקת פרוייקטים לחברה יצרנית גלובלית | רעש | — | נפסל: פרויקטים בייצור, חיפה, חברת השמה | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4479417847/ |
 | 23/10/2026 | Elbit Systems | R&D Manager | רעש | — | נפסל: פיתוח (ירושלים) | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4385430713/ |
+| 24/10/2026 | Aidoc | Director of GenAI Operations | א' | 8 | נשלח (#1) · חשש: ייתכן תפקיד LLMOps/טכני ולא הטמעה ארגונית; Aidoc מגייסת גם Legal Director (22/10) | #2 + #9 + #8 + #5 + #3 + #4 + #6 + #7 + #12 | ממתין | https://www.linkedin.com/jobs/view/4445001488/ |
+| 24/10/2026 | Yad2 | Head of AI | א' | 7 | נשלח (#2) · חשש: לא ידוע אם אסטרטגיית AI ארגונית או הובלת צוות דאטה/מוצר טכני | #9 + #11 + #3 + #4 | ממתין | https://www.linkedin.com/jobs/view/4481178563/ |
+| 24/10/2026 | Personetics | Head of AI | א' | 6 | גבולי: Head of AI בחברת מוצר AI, כנראה תפקיד R&D/דאטה סיינס | #2 + #9 + #8 + #1 + #6 + #7 | ממתין | https://www.linkedin.com/jobs/view/4455270906/ |
+| 24/10/2026 | Experis Israel | Head of Business Applications 244740 | א' | 5 | גבולי: מערכות עסקיות (חצי IT), חברת השמה (מודיעין) | #2 + #8 + #6 | ממתין | https://www.linkedin.com/jobs/view/4479492308/ |
+| 24/10/2026 | KPMG Israel | Director – Operational Excellence, Banking Sector | א' | 5 | גבולי: OpEx בנקאי קרוב לאו"ש קלאסי (כלל 23/10; הפועלים OpEx נדחה 14/10), אבל דרג Director ותואם ניסיון לאומי | #2 + #8 + #6 | ממתין | https://www.linkedin.com/jobs/view/4481372575/ |
+| 24/10/2026 | RISCO Group | Chief Operating Officer (COO) | רעש | — | נפסל: תפעול (ראשון לציון) | #6 Operational Excellence | ממתין | https://www.linkedin.com/jobs/view/4482435803/ |
+| 24/10/2026 | Elbit Systems | Head of Project Management in Manufacturing | רעש | — | נפסל: פרויקטים בייצור (כרמיאל) | #8 Business Transformation | ממתין | https://www.linkedin.com/jobs/view/4462511932/ |
+| 24/10/2026 | Elbit Systems | TOT Project Manager | רעש | — | נפסל: פרויקט ביטחוני/הנדסי | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4453415593/ |
+| 24/10/2026 | TeraSky | Project Management Team Lead | רעש | — | נפסל: חברת שירותי IT | #2 Digital Transformation | ממתין | https://www.linkedin.com/jobs/view/4478300519/ |
+| 24/10/2026 | Log-On Software | AI Project Manager | רעש | — | נפסל: חברת תוכנה/יישום | #13 + #11 | ממתין | https://www.linkedin.com/jobs/view/4480039376/ |
+| 24/10/2026 | Moveo Source | Digital Technology Manager | רעש | — | נפסל: חברת יישום (לוד) | #13 Implementation Manager | ממתין | https://www.linkedin.com/jobs/view/4481354930/ |
+| 24/10/2026 | Mertens (מלם תים) | Salesforce Systems Analyst (37857) | רעש | — | נפסל: חברת יישום | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4482470713/ |
+| 24/10/2026 | Ness Technologies | מנתח/ת מערכות למשרד ממשלתי (ירושלים) | רעש | — | נפסל: מיקור חוץ | #15 Salesforce | ממתין | https://www.linkedin.com/jobs/view/4479484923/ |
+| 24/10/2026 | Central Bottling Company | ראש/ת צוות טכנולוגים (17955) | רעש | — | נפסל: ייצור (נתיבות) | #9 מנהל חדשנות | ממתין | https://www.linkedin.com/jobs/view/4482451073/ |
+| 24/10/2026 | HiBob | People and Culture Partner | רעש | — | נפסל: HR | #14 Change Management | ממתין | https://www.linkedin.com/jobs/view/4482463725/ |
+| 24/10/2026 | Valens Semiconductor | General Counsel | רעש | — | נפסל: משפטי | #5 Legal Operations | ממתין | https://www.linkedin.com/jobs/view/4480016738/ |
